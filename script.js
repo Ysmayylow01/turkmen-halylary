@@ -105,30 +105,6 @@ const images = document.querySelectorAll('img');
         {
             "image": "images/Hatarda.jpg",
             "description": "Hatarda"
-        },
-        {
-            "image": "images/Hazar.jpg",
-            "description": "Hazar"
-        },
-        {
-            "image": "images/Hum_216x253.jpg",
-            "description": "Hum"
-        },
-        {
-            "image": "images/Kejebe.jpg",
-            "description": "Kejebe"
-        },
-        {
-            "image": "images/Gyrat.jpg",
-            "description": "Gyrat"
-        },
-        {
-            "image": "images/Hasyl.jpg",
-            "description": "Hasyl"
-        },
-        {
-            "image": "images/Hatarda.jpg",
-            "description": "Hatarda"
         }
     ];
     

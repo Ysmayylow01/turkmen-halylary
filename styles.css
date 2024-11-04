@@ -176,10 +176,14 @@ form button:hover {
 }
 img {
     width: 100%;
-    height: 500px;
-    max-width: 100%;
+    height: auto; 
     border-radius: 16px;
-
+}
+.mySlides img { 
+    width: 100%;
+    aspect-ratio: 2.5/1;
+    border-radius: 16px;
+    object-fit: cover;
 }
 
 .dot {
